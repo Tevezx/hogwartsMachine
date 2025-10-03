@@ -49,4 +49,4 @@ O projeto é uma aplicação **Frontend pura**, construída com as seguintes tec
 
 ---
 
-**Desenvolvido por:** [Seu Nome/Seu GitHub User Name]
+**Desenvolvido por:** Tevezx
